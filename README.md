@@ -7,7 +7,7 @@
 
 - 💡 복잡한 문제를 단계적으로 개선하는 것을 좋아합니다.
 - 💡 성능 향상을 위해 다양한 방법을 고민하는 것을 좋아합니다.
-- 📝 기술 블로그: [https://growth-coder.tistory.com](https://growth-coder.tistory.com/359)
+- 📝 기술 블로그: [https://growth-coder.tistory.com](https://growth-coder.tistory.com)
 - 📫 이메일: growth_s@naver.com
 
 ## 🏆 Activities
